@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "q0pCkt/f37v5MgIfvSPom6cLzlHm2QqL5+QbOjkM8rM=",
+  "Source": "KeyCloakTestApi1",
+  "BasePath": "_content/KeyCloakTestApi1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

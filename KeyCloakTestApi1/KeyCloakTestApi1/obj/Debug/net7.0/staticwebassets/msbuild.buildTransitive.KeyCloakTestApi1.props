@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/KeyCloakTestApi1.props" />
+</Project>
