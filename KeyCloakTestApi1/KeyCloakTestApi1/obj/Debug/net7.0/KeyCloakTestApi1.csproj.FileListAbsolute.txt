@@ -31,3 +31,10 @@
 /Users/okanoz/Documents/Project/KeyCloakTestApi/KeyCloakTestApi1/KeyCloakTestApi1/obj/Debug/net7.0/KeyCloakTestApi1.pdb
 /Users/okanoz/Documents/Project/KeyCloakTestApi/KeyCloakTestApi1/KeyCloakTestApi1/obj/Debug/net7.0/KeyCloakTestApi1.genruntimeconfig.cache
 /Users/okanoz/Documents/Project/KeyCloakTestApi/KeyCloakTestApi1/KeyCloakTestApi1/obj/Debug/net7.0/ref/KeyCloakTestApi1.dll
+/Users/okanoz/Documents/Project/KeyCloakTestApi/KeyCloakTestApi1/KeyCloakTestApi1/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/okanoz/Documents/Project/KeyCloakTestApi/KeyCloakTestApi1/KeyCloakTestApi1/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/okanoz/Documents/Project/KeyCloakTestApi/KeyCloakTestApi1/KeyCloakTestApi1/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/okanoz/Documents/Project/KeyCloakTestApi/KeyCloakTestApi1/KeyCloakTestApi1/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/okanoz/Documents/Project/KeyCloakTestApi/KeyCloakTestApi1/KeyCloakTestApi1/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/okanoz/Documents/Project/KeyCloakTestApi/KeyCloakTestApi1/KeyCloakTestApi1/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/okanoz/Documents/Project/KeyCloakTestApi/KeyCloakTestApi1/KeyCloakTestApi1/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
